@@ -33,7 +33,7 @@
 }
 
 @media (max-width: 600px) {
-    .btn-floating span { display-none;}/* Sary famantarana fotsiny no hita amin'ny finday */
+    .btn-floating span { display-none;}
     .btn-floating {padding: 15px;
     }
 
@@ -49,11 +49,11 @@
                 line-height: 1.6;
             color: var(--text-color);
             background-color: var(--bg-color);h1 {
-    background-color: var(--primary-color); /* Loko manga */
-    color: white;             /* Loko fotsy ny soratra mba hovakiana tsara */
-    padding: 15px 20px;       /* Elanelana eo anelanelan'ny soratra sy ny sisiny */
-    border-radius: 10px;      /* Manodidina kely ny zorony */
-    display: inline-block;    /* Tsy mameno ny sakany manontolo fa araka ny soratra ihany */
+    background-color: var(--primary-color); 
+    color: white;           
+    padding: 15px 20px;      
+    border-radius: 10px;    
+    display: inline-block;    
     margin-bottom: 20px;}
             margin: 0;
             padding: 20px;
